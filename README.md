@@ -1,8 +1,13 @@
+
 # pensieve
 
 This project is a real-life recreation of the [Pensieve from Harry Potter](https://www.wizardingworld.com/writing-by-jk-rowling/pensieve). Using a Raspberry Pi, water level sensors, and other components, the final product plays a custom video beneath glowing water when a vile of water is poured into the basin.
 
-TODO: Link to the blog post and final product pictures / video.
+Check out the blog post on the project [here](https://medium.com/@smrubin/an-engineers-marriage-proposal-using-a-raspberry-pi-to-create-the-pensieve-from-harry-potter-7f846926c31)
+
+Demo of the Pensieve in Action
+
+<img src="./img/Pensieve_Demo.gif" width="400"/>
 
 ## Materials
 
@@ -26,6 +31,20 @@ I used an adhesive strip to attach the water level sensor to the inside of one o
 
 I also added the python script to the Raspberry Pi and had it running in the background. When water is detected by the sensor, the script can perfrom an action, in this case the playing of a video I also added to the Pi.
 
-## Building the Pensieve
+## Pictures of Development and Final Product
 
-TODO
+Sketch of Pensieve Mechanics
+
+<img src="./img/Pensieve_Draft.jpeg" width="400"/>
+
+Water Detection with the Raspberry Pi
+
+<img src="./img/Pensieve_Water_Chamber.jpeg" width="400"/>
+
+Pensieve Basin Resting on Mount
+
+<img src="./img/Pensieve_Basin.png" width="400"/>
+
+Pensieve Mounted and Ready for Action
+
+<img src="./img/Pensieve_Rest.png" width="400"/>
