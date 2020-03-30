@@ -7,7 +7,7 @@ Check out the blog post on the project [here](https://medium.com/@smrubin/an-eng
 
 Demo of the Pensieve in Action
 
-<img src="./img/Pensieve_Demo.gif" width="400"/>
+<img src="./img/Pensieve_Demo.gif" width="800"/>
 
 ## Materials
 
